@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1609005452 source:c:\users\lawliet\documents\tubes_std\paper.cpp
+	"paper.h"
+
+1609005520 c:\users\lawliet\documents\tubes_std\paper.h
+	<iostream>
+	"keyword.h"
+
+1609005639 c:\users\lawliet\documents\tubes_std\keyword.h
+	<iostream>
+
+1609005548 source:c:\users\lawliet\documents\tubes_std\keyword.cpp
+	"keyword.h"
+	"paper.h"
+
+1609006398 source:c:\users\lawliet\documents\tubes_std\main.cpp
+	"paper.h"
+	"keyword.h"
+	"relasi.h"
+
+1609005457 c:\users\lawliet\documents\tubes_std\relasi.h
+	"paper.h"
+	"keyword.h"
+
+1609006406 source:c:\users\lawliet\documents\tubes_std\relasi.cpp
+	"relasi.h"
+
