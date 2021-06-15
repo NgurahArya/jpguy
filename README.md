@@ -14,4 +14,7 @@ NIM : 1303194011
 
 
 check this out : https://nguraharya.github.io/jpguy/
+
 also check this out :https://bit.ly/IqT6zt
+
+take it easy, peace :v:
