@@ -13,5 +13,5 @@ NIM : 1303194011
 ![ThanksYou](https://img.shields.io/badge/Special_thanks_for_the_source_code_by_anuraghazra-dodgerred.svg?style=for-the-badge)
 
 
-
+check this out : https://nguraharya.github.io/jpguy/
 also check this out :https://bit.ly/IqT6zt
